@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HiddenOG
-- 👀 I’m interested in AI/Machine Learning 
-- 🌱 I’m currently learning Data Structures 
+- 👀 I’m a Data Scientist and Analyst skilled in SQL, Python and Tableau
+- I'm also a Technical Writer on a wide range of topics mostly Data science
+- 🌱 I’m currently learning Quantum Computing 
 - 💞️ I’m looking to collaborate on Machine Learning projects 
 - 📫 How to reach me godsonodelegend@gmail.com
 
