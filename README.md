@@ -8,4 +8,5 @@
  transforming data into insights and stories
  
  Fun fact:  also a Writing enthusiast
+ 
  Contact me via email: godsonodele@gmail.com
