@@ -1,16 +1,11 @@
-## Hi there 👋
+## My name is Godson Odele 👋
 
-<!--
-**HiddenOG/HiddenOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Prologue
+ Data Scientist sharing my journey one project at a time. Currently working as a freelancer
+ and open to a Data science job/position. I studied Biotechnology at University of Benin.
+ Still learning Data science/Machine learning and branching into Computer Vision/Robotics.
+ looking forward to collaborate on meaningful and well paid projects with the goal of 
+ transforming data into insights and stories
+ 
+ Fun fact:  also a Writing enthusiast
+ Contact me via email: godsonodele@gmail.com
